@@ -65,14 +65,14 @@ Create .env file:
 mongodb://localhost:27017
 
 ### 5. Run the Application
-uvicorn app.main:app --reload
-Open Swagger UI:
-http://127.0.0.1:8000/docs
+- uvicorn app.main:app --reload
+- Open Swagger UI:
+- http://127.0.0.1:8000/docs
 
 ### 6. Authentication Flow
-Register user
-Login to receive JWT token
-Send token in header:
+- Register user
+- Login to receive JWT token
+- Send token in header:
 
 ### 7. Testing Protected Routes 
 curl -X POST http://127.0.0.1:8000/tasks \
