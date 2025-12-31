@@ -28,10 +28,6 @@ Smart ToDo API is a secure RESTful backend application that allows users to mana
 
 ## Project Structure
 
-## Project Structure Diagram
-
-## Project Structure
-
 <pre>
 smart-todo-api/
 ├── app/
